@@ -1,0 +1,2 @@
+This is some wild text
+assert someValue != null : "Because string not null"
